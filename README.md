@@ -1,3 +1,5 @@
+![](https://github.com/keicoon/DailyWords/blob/master/images/screenshot.png)
+
 ### DailyWords
 - A chrome extension application to educate english words
 - Version 1.0

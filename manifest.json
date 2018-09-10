@@ -20,5 +20,6 @@
         "storage",
         "http://learn.dict.naver.com/m/endic/today/words.nhn",
         "https://learn.dict.naver.com/m/endic/today/words.nhn"
-    ]
+    ],
+    "update_url": "http://github.com/keicoon/DailyWords/blob/master/updates.xml"
 }
